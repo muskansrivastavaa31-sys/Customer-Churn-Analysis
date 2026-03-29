@@ -28,8 +28,5 @@ To analyze customer data using Python and Power BI to identify key factors affec
 - Improve payment experience  
 - Focus on customer retention strategies  
 
-## 📈 Dashboard
-(Add your Power BI dashboard screenshot here)
-
 ## 📌 Conclusion
 Customer churn is mainly driven by contract type and payment method. Improving customer experience can reduce churn.
