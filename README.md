@@ -11,8 +11,6 @@ To analyze customer data using Python and Power BI to identify key factors affec
 - Power BI
 - Jupyter Notebook
 
-## 📂 Dataset
-The dataset contains customer details such as gender, tenure, contract type, payment method, monthly charges, and churn status.
 
 ## 📊 Analysis Performed
 - Data cleaning and preprocessing  
